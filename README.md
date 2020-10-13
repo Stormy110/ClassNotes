@@ -1,2 +1,3 @@
 # ClassNotes
-These are the classmates for my blog
+These are the classnotes
+for my blog
